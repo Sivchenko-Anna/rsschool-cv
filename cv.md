@@ -1,7 +1,8 @@
 # Sivchenko Anna
-*******
+
 ## Contacts
 * **Github:** Sivchenko-Anna
+* **Discord:** Anyta (@Sivchenko-Anna)
 * **Email:** anya.malakhova.99@mail.ru
 * **Phone:** +7(914)662-73-78
 * **Location:** Vladivostok, Russia
@@ -20,3 +21,11 @@ In the future, I hope to become a professional Frontend developer, who works on 
 * Python (Basic)
 * Git/Github
 * VS Code
+## Code Example
+**Task:** *It is necessary to calculate and return the area of a triangle from the function. The arguments "a" and "b" passed to the function are the lengths of the sides, and "c" is the angle between them in degrees*
+```javascript
+function testMath(a, b, c) {
+    let S = 1/2*a*b*Math.sin(c*Math.PI/180)
+    return S
+}
+```
