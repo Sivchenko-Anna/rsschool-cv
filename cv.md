@@ -12,3 +12,11 @@ I started getting acquainted with the IT sphere, *when I was sure that "1000%" p
 At first, I learned the basics of Python, then I took courses in html and css. Gradually began to learn Javascript. The constant search for quality sources of information and opportunities for self-study brought me to the RS School!
 
 In the future, I hope to become a professional Frontend developer, who works on interesting projects and makes this world a better place.
+*******
+## Skills
+* HTML5
+* CSS3/SASS
+* JavaScript (Basic)
+* Python (Basic)
+* Git/Github
+* VS Code
