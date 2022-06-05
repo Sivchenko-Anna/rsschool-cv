@@ -33,7 +33,7 @@ function testMath(a, b, c) {
 ```
 *******
 ## Work experience
-Project "CV" https://sivchenko-anna.github.io/rsschool-cv/cv
+Project "CV" https://Sivchenko-Anna.github.io/rsschool-cv/cv
 *******
 ## Education
 1. Basics of HTML and CSS (https://www.coursera.org/account/accomplishments/verify/5TBPECXNGCDG)
