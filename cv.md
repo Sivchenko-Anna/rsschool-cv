@@ -36,10 +36,10 @@ function testMath(a, b, c) {
 Project "CV" https://sivchenko-anna.github.io/rsschool-cv/cv
 *******
 ## Education
-1. [Basics of HTML and CSS] (https://www.coursera.org/account/accomplishments/verify/5TBPECXNGCDG)
-2. [Web Development for Beginners: HTML and CSS] (https://stepik.org/cert/1429234)
-3. [Agile and Scrum in project work and products] (https://www.coursera.org/account/accomplishments/verify/TEW4GNB482EC)
-4. [HTML Academy] (https://htmlacademy.ru/courses)
+1. Basics of HTML and CSS (https://www.coursera.org/account/accomplishments/verify/5TBPECXNGCDG)
+2. Web Development for Beginners: HTML and CSS (https://stepik.org/cert/1429234)
+3. Agile and Scrum in project work and products (https://www.coursera.org/account/accomplishments/verify/TEW4GNB482EC)
+4. HTML Academy (https://htmlacademy.ru/courses)
 5. RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 *******
 ## Languages
